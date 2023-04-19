@@ -52,6 +52,14 @@ body {
         background-size: cover;
     }
 
-    .gift-img:hover {
-        background-image: url("images/happy.webp");
+    #gift-img-happy:hover {
+        background-image: url("images/happy.gif");
+    }
+    
+    #gift-img-genius:hover {
+        background-image: url("images/genius.webp");
+    }
+    
+    #gift-img-badass:hover {
+        background-image: url("images/badass.webp");
     }
