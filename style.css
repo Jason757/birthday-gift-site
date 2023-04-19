@@ -51,3 +51,7 @@ body {
         background-image: url("images/gift-box.jpg");
         background-size: cover;
     }
+
+    .gift-img:hover {
+        background-image: url("images/happy.webp");
+    }
