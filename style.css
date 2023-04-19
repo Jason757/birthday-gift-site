@@ -42,9 +42,12 @@ body {
     margin-top: 0;
 }
 
-.gift-img {
-    width: 400px;
-    height: 350px;
-    border: 6px solid white;
-    border-radius: 10px;
-}
+.gift-img { 
+        margin: 0 auto;
+        width: 400px;
+        height: 400px;
+        border: 6px solid white;
+        border-radius: 10px;
+        background-image: url("images/gift-box.jpg");
+        background-size: cover;
+    }
